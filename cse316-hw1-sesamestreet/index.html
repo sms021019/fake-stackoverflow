@@ -1,0 +1,202 @@
+<html>
+
+<head>
+    <link rel="stylesheet" href="css/index.css">
+    <script type="module" src="src/index.js">
+    </script>
+
+</head>
+
+<body>
+
+    <!--Banner 
+    Should be in every page-->
+    <div class="banner">
+
+        <div class="title">
+            <h1>Fake Stack Overflow</h1>
+        </div>
+
+        <div class="searchArea">
+            <form action="">
+                <input type="text" id="searchbar" placeholder="Search...">
+                <span></span>
+            </form>
+        </div>
+
+    </div>
+    <!--End banner-->
+
+    <!--Sidebar
+    Should be on every page but with button class accurate to current page-->
+    <div id="main" class="main">
+
+        <div class="sidebar">
+            <button class="sideButtonClicked" id="questionsBtnId" onclick="window.location.href='/'">Questions</button>
+
+            <!--             <button class="sideButtonDefault" onclick="window.location.href='tags.html'" id="tagBtnId">Tags</button> -->
+            <button class="sideButtonDefault" id="tagBtnId">Tags</button>
+        </div>
+
+    </div>
+    <!--End sidebar-->
+
+    <script>
+        var tagBtn = document.getElementById("tagBtnId");
+        var qBtn = document.getElementById("questionsBtnId");
+        tagBtn.addEventListener("click", function () {
+            if (tagBtn.classList.contains("sideButtonDefault")) {
+                tagBtn.classList.toggle("sideButtonDefault");
+                tagBtn.classList.toggle("sideButtonClicked");
+                qBtn.classList.toggle("sideButtonClicked");
+                qBtn.classList.toggle("sideButtonDefault");
+            }
+        });
+        qBtn.addEventListener("click", function () {
+            if (qBtn.classList.contains("sideButtonDefault")) {
+                tagBtn.classList.toggle("sideButtonDefault");
+                tagBtn.classList.toggle("sideButtonClicked");
+                qBtn.classList.toggle("sideButtonClicked");
+                qBtn.classList.toggle("sideButtonDefault");
+            }
+        });
+
+    </script>
+
+
+    <!--Begin header-->
+    <div id="mainPage">
+        <div id="header" class="header">
+            <h2>All Questions</h2>
+
+
+            <button id="askQuestionButton" class="button">Ask
+                Question</button>
+            <div id="numofClasses" class="underHead">
+
+            </div>
+            <div id="sortBtns">
+                <li><button class="sortingBtns" id="newest">Newest</button></li>
+                <li><button id="active">Active</button></li>
+                <li><button id="unans">Unanswered</button></li>
+            </div>
+
+        </div>
+        <div id="questions" class="questions">
+        </div>
+    </div>
+    <!--End Header-->
+
+
+
+
+
+
+
+
+    <!--tag-->
+
+    <div class="tagMain" id="tagMain">
+        <div class="tagHead" id="tagHead">
+            <li>
+                <div id="totalTags"></div>
+            </li>
+            <li>
+                <p>All Tags</p>
+            </li>
+            <button id="askQuestionButtonTagsPage" class="button">Ask
+                Question</button>
+        </div>
+
+
+        <!--------------Tag Body--------------->
+        <div id="tagBody">
+
+        </div>
+    </div>
+    <!--tag-->
+
+
+
+    <!--new question-->
+    <form action="/" id="newQuestionForm" style="display: none;">
+        <div class="questionForm" id="questionForm">
+
+            <p class="formLabel">Question Title*</p>
+            <p class="subtext">Limit title to 100 characters or less</p>
+            <input type="text" id="newQuestionTitle" name="newQuestionTitle" placeholder="Summarize your question"
+                required maxlength="100">
+
+            <p class="formLabel">Question Text*</p>
+            <p class="subtext">Add details</p>
+            <textarea id="newQuestionText" name="newQuestionText" placeholder="Describe your question"
+                required></textarea>
+            <!--textarea for multiple lines-->
+
+            <!--Event listener added to limit input to 5 words-->
+            <p class="formLabel">Tags*</p>
+            <p class="subtext">Add keywords separated by whitespace</p>
+            <input type="text" id="newQuestionTags" name="newQuestionTags" placeholder="Enter a max of 5 tags" required>
+
+            <p class="formLabel">Username*</p>
+            <input type="text" id="newQuestionUsername" name="newQuestionUsername" placeholder="Enter your username"
+                required>
+
+            <br><br>
+            <input type="submit" value="Post Question" class="button" id="submitNewQuestionButton">
+
+            <p id="redText">* indicates mandatory fields</p>
+
+        </div>
+
+    </form>
+
+    <!--new question END-->
+
+    <!--   answerPage -->
+    <div action="/" action="/" class="mainPage" id="answerPageForm" style="display: none;">
+        <div class="qInfo">
+            <button id="askQuestionButtonAnswer" class="button" style="display:none;">Ask Question</button><button
+                id="askQuestionButtonAnswer" class="button" style="display:none;">Ask Question</button>
+
+            <div id="upper3">
+
+            </div>
+
+
+            <div id="lower3">
+
+            </div>
+        </div>
+
+        <div class="answers" id="answers">
+
+        </div>
+
+        <div class="buttonSpace" id=ansButton>
+            <button id="answerQuestionBtn" class="button">Answer Question</button>
+        </div>
+    </div>
+    <!--   answerPage END -->
+
+    <!-- new answer page -->
+    <form action="/" id="newAnswerPageForm" style="display: none;">
+        <div class="questionForm">
+            <p class="formLabel">Username*</p>
+            <input type="text" id="newAnswerUsername" name="newAnswerUsername" placeholder="Enter your username"
+                required>
+
+            <p class="formLabel">Answer Text*</p>
+            <textarea id="newAnswerText" name="newAnswerText" placeholder="Describe your answer" required></textarea>
+
+            <br><br>
+            <input type="submit" value="Post Answer" class="button" id="submitNewAnswerButton">
+
+            <p id="redText">* indicates mandatory fields</p>
+        </div>
+    </form>
+
+
+</body>
+
+</html>

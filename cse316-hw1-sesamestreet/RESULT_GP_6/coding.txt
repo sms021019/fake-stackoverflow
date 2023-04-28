@@ -1,0 +1,1288 @@
+index.js
+
+  134:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  136:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  136:5    error    Expected space or tab after '//' in comment                                    spaced-comment
+  137:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  138:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  138:14   error    Strings must use singlequote                                                   quotes
+  139:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  139:29   error    Strings must use singlequote                                                   quotes
+  140:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  140:28   error    Strings must use singlequote                                                   quotes
+  141:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  142:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  142:31   error    Strings must use singlequote                                                   quotes
+  143:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  144:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  145:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  145:17   error    Unexpected trailing comma                                                      comma-dangle
+  146:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  146:7    error    Extra semicolon                                                                semi
+  148:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  148:19   error    Extra semicolon                                                                semi
+  149:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  150:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  150:17   error    Strings must use singlequote                                                   quotes
+  150:30   error    Extra semicolon                                                                semi
+  151:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  151:21   error    Extra semicolon                                                                semi
+  152:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  152:5    error    Expected space or tab after '//' in comment                                    spaced-comment
+  155:29   error    Strings must use singlequote                                                   quotes
+  156:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  156:29   error    Strings must use singlequote                                                   quotes
+  156:65   error    Strings must use singlequote                                                   quotes
+  156:83   error    Missing space before function parentheses                                      space-before-function-paren
+  157:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  157:9    error    Expected space or tab after '//' in comment                                    spaced-comment
+  158:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  158:28   error    Extra semicolon                                                                semi
+  159:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  161:1    error    Expected space or tab after '//' in comment                                    spaced-comment
+  179:5    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  180:1    error    Expected space or tab after '//' in comment                                    spaced-comment
+  181:5    error    'displayNumQs' is never reassigned. Use 'const' instead                        prefer-const
+  181:28   error    Missing space before function parentheses                                      space-before-function-paren
+  182:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  182:9    error    'obj' is never reassigned. Use 'const' instead                                 prefer-const
+  182:26   error    Extra semicolon                                                                semi
+  183:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  183:19   error    Extra semicolon                                                                semi
+  184:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  186:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  186:18   error    Extra semicolon                                                                semi
+  187:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  187:17   error    Extra semicolon                                                                semi
+  188:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  189:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  189:44   error    Strings must use singlequote                                                   quotes
+  189:69   error    Extra semicolon                                                                semi
+  190:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  190:26   error    Strings must use singlequote                                                   quotes
+  191:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  191:20   error    Extra semicolon                                                                semi
+  192:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  193:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  194:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  194:9    error    'element1' is never reassigned. Use 'const' instead                            prefer-const
+  194:44   error    Strings must use singlequote                                                   quotes
+  194:59   error    Extra semicolon                                                                semi
+  195:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  195:35   error    Expected '===' and instead saw '=='                                            eqeqeq
+  195:62   error    Strings must use singlequote                                                   quotes
+  195:74   error    Extra semicolon                                                                semi
+  196:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  196:69   error    Strings must use singlequote                                                   quotes
+  196:81   error    Extra semicolon                                                                semi
+  197:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  200:5    error    'displayCards' is never reassigned. Use 'const' instead                        prefer-const
+  200:28   error    Missing space before function parentheses                                      space-before-function-paren
+  201:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  201:9    error    'obj' is never reassigned. Use 'const' instead                                 prefer-const
+  201:26   error    Extra semicolon                                                                semi
+  202:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  202:19   error    Extra semicolon                                                                semi
+  203:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  205:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  205:9    error    'reset' is never reassigned. Use 'const' instead                               prefer-const
+  205:41   error    Strings must use singlequote                                                   quotes
+  205:53   error    Extra semicolon                                                                semi
+  206:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  206:9    error    'qList' is never reassigned. Use 'const' instead                               prefer-const
+  206:35   error    Extra semicolon                                                                semi
+  207:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  207:34   error    Strings must use singlequote                                                   quotes
+  207:36   error    Extra semicolon                                                                semi
+  209:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  210:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  211:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  212:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  214:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  216:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  217:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  218:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  220:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  221:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  222:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  223:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  224:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  225:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  226:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  227:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  228:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  229:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  231:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  232:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  233:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  233:13   error    'numAns' is assigned a value but never used                                    no-unused-vars
+  233:13   error    'numAns' is never reassigned. Use 'const' instead                              prefer-const
+  233:44   error    Extra semicolon                                                                semi
+  234:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  234:13   error    'numViews' is assigned a value but never used                                  no-unused-vars
+  234:13   error    'numViews' is never reassigned. Use 'const' instead                            prefer-const
+  234:38   error    Extra semicolon                                                                semi
+  236:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  236:13   error    'temp' is never reassigned. Use 'const' instead                                prefer-const
+  236:44   error    Strings must use singlequote                                                   quotes
+  236:56   error    Extra semicolon                                                                semi
+  238:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  238:37   error    Strings must use singlequote                                                   quotes
+  238:73   error    Strings must use singlequote                                                   quotes
+  239:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  239:13   error    'cardName' is never reassigned. Use 'const' instead                            prefer-const
+  239:24   error    Strings must use singlequote                                                   quotes
+  239:34   error    Extra semicolon                                                                semi
+  240:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  240:13   error    'card' is never reassigned. Use 'const' instead                                prefer-const
+  240:53   error    Extra semicolon                                                                semi
+  242:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  242:9    error    Expected space or tab after '//' in comment                                    spaced-comment
+  243:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  243:154  error    Extra semicolon                                                                semi
+  244:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  245:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  245:102  error    Strings must use singlequote                                                   quotes
+  245:117  error    Strings must use singlequote                                                   quotes
+  245:145  error    Strings must use singlequote                                                   quotes
+  245:156  error    Strings must use singlequote                                                   quotes
+  245:164  error    Extra semicolon                                                                semi
+  246:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  246:119  error    Operator '+' must be spaced                                                    space-infix-ops
+  246:121  error    Operator '+' must be spaced                                                    space-infix-ops
+  246:122  error    Strings must use singlequote                                                   quotes
+  246:137  error    Operator '+' must be spaced                                                    space-infix-ops
+  246:139  error    Operator '+' must be spaced                                                    space-infix-ops
+  246:140  error    Strings must use singlequote                                                   quotes
+  246:165  error    Strings must use singlequote                                                   quotes
+  246:182  error    Extra semicolon                                                                semi
+  247:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  247:134  error    Strings must use singlequote                                                   quotes
+  247:189  error    Strings must use singlequote                                                   quotes
+  247:197  error    Extra semicolon                                                                semi
+  248:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  248:27   error    Strings must use singlequote                                                   quotes
+  248:77   error    Strings must use singlequote                                                   quotes
+  248:88   error    Extra semicolon                                                                semi
+  249:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  249:23   error    Extra semicolon                                                                semi
+  249:24   error    Block must not be padded by blank lines                                        padded-blocks
+  250:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  251:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  252:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  253:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  254:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  254:19   error    Extra semicolon                                                                semi
+  254:20   error    Block must not be padded by blank lines                                        padded-blocks
+  258:5    error    'unansSetup' is never reassigned. Use 'const' instead                          prefer-const
+  258:26   error    Missing space before function parentheses                                      space-before-function-paren
+  259:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  259:9    error    'unansButton' is never reassigned. Use 'const' instead                         prefer-const
+  259:47   error    Strings must use singlequote                                                   quotes
+  259:55   error    Extra semicolon                                                                semi
+  260:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  260:34   error    Strings must use singlequote                                                   quotes
+  260:53   error    Extra semicolon                                                                semi
+  263:5    error    'unansSort' is never reassigned. Use 'const' instead                           prefer-const
+  263:25   error    Missing space before function parentheses                                      space-before-function-paren
+  264:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  264:9    error    'obj' is never reassigned. Use 'const' instead                                 prefer-const
+  264:26   error    Extra semicolon                                                                semi
+  265:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  265:19   error    Extra semicolon                                                                semi
+  266:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  267:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  267:18   error    Extra semicolon                                                                semi
+  268:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  268:17   error    Strings must use singlequote                                                   quotes
+  268:32   error    Extra semicolon                                                                semi
+  270:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  271:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  272:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  273:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  274:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  275:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  276:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  278:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  279:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  280:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  280:78   error    Trailing spaces not allowed                                                    no-trailing-spaces
+  281:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  282:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  283:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  283:9    error    'questions' is never reassigned. Use 'const' instead                           prefer-const
+  283:39   error    Extra semicolon                                                                semi
+  284:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  285:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  285:40   error    Expected '!==' and instead saw '!='                                            eqeqeq
+  286:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  286:20   error    Extra semicolon                                                                semi
+  287:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  287:37   error    Strings must use singlequote                                                   quotes
+  287:65   error    Strings must use singlequote                                                   quotes
+  287:71   error    Extra semicolon                                                                semi
+  288:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  290:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  291:1    error    More than 1 blank line not allowed                                             no-multiple-empty-lines
+  292:9    error    'element1' is never reassigned. Use 'const' instead                            prefer-const
+  292:44   error    Strings must use singlequote                                                   quotes
+  292:59   error    Extra semicolon                                                                semi
+  293:33   error    Expected '===' and instead saw '=='                                            eqeqeq
+  293:60   error    Strings must use singlequote                                                   quotes
+  293:72   error    Extra semicolon                                                                semi
+  294:59   error    Strings must use singlequote                                                   quotes
+  294:71   error    Extra semicolon                                                                semi
+  295:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  296:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  296:19   error    Extra semicolon                                                                semi
+  297:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  300:5    error    'activeSetup' is never reassigned. Use 'const' instead                         prefer-const
+  300:27   error    Missing space before function parentheses                                      space-before-function-paren
+  301:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  301:9    error    'activeButton' is never reassigned. Use 'const' instead                        prefer-const
+  301:48   error    Strings must use singlequote                                                   quotes
+  301:57   error    Extra semicolon                                                                semi
+  302:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  302:35   error    Strings must use singlequote                                                   quotes
+  302:55   error    Extra semicolon                                                                semi
+  305:1    error    More than 1 blank line not allowed                                             no-multiple-empty-lines
+  306:5    error    'activeSort' is never reassigned. Use 'const' instead                          prefer-const
+  306:26   error    Missing space before function parentheses                                      space-before-function-paren
+  307:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  307:9    error    'obj' is never reassigned. Use 'const' instead                                 prefer-const
+  307:26   error    Extra semicolon                                                                semi
+  308:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  308:19   error    Extra semicolon                                                                semi
+  309:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  310:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  310:20   error    Extra semicolon                                                                semi
+  311:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  311:22   error    Extra semicolon                                                                semi
+  312:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  312:9    error    'recentArr' is never reassigned. Use 'const' instead                           prefer-const
+  312:23   error    Extra semicolon                                                                semi
+  314:1    error    More than 1 blank line not allowed                                             no-multiple-empty-lines
+  315:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  316:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  316:22   error    Extra semicolon                                                                semi
+  317:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  317:46   error    Extra semicolon                                                                semi
+  319:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  320:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  320:50   error    Extra semicolon                                                                semi
+  321:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  322:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  322:44   error    Extra semicolon                                                                semi
+  322:45   error    Block must not be padded by blank lines                                        padded-blocks
+  324:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  326:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  327:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  328:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  329:1    error    Expected indentation of 8 spaces but found 16                                  indent
+  329:21   error    'temp' is never reassigned. Use 'const' instead                                prefer-const
+  329:49   error    Extra semicolon                                                                semi
+  330:1    error    Expected indentation of 8 spaces but found 16                                  indent
+  330:62   error    Extra semicolon                                                                semi
+  331:1    error    Expected indentation of 8 spaces but found 16                                  indent
+  331:45   error    Extra semicolon                                                                semi
+  332:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  333:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  334:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  335:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  335:19   error    Extra semicolon                                                                semi
+  336:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  336:19   error    Extra semicolon                                                                semi
+  336:20   error    Block must not be padded by blank lines                                        padded-blocks
+  340:1    error    More than 1 blank line not allowed                                             no-multiple-empty-lines
+  342:5    error    'getRecent' is never reassigned. Use 'const' instead                           prefer-const
+  342:25   error    Missing space before function parentheses                                      space-before-function-paren
+  343:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  343:26   error    Extra semicolon                                                                semi
+  344:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  345:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  346:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  347:1    error    Expected indentation of 8 spaces but found 16                                  indent
+  347:36   error    Extra semicolon                                                                semi
+  348:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  349:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  350:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  351:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  351:22   error    Extra semicolon                                                                semi
+  354:5    error    'getAnsDates' is never reassigned. Use 'const' instead                         prefer-const
+  354:27   error    Missing space before function parentheses                                      space-before-function-paren
+  355:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  355:9    error    'obj' is never reassigned. Use 'const' instead                                 prefer-const
+  355:26   error    Extra semicolon                                                                semi
+  356:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  356:19   error    Extra semicolon                                                                semi
+  357:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  358:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  359:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  360:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  360:47   error    Extra semicolon                                                                semi
+  360:48   error    Block must not be padded by blank lines                                        padded-blocks
+  362:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  363:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  364:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  364:13   error    Extra semicolon                                                                semi
+  367:1    error    More than 1 blank line not allowed                                             no-multiple-empty-lines
+  368:5    error    'newestSetup' is never reassigned. Use 'const' instead                         prefer-const
+  368:27   error    Missing space before function parentheses                                      space-before-function-paren
+  369:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  369:9    error    'newestButton' is never reassigned. Use 'const' instead                        prefer-const
+  369:48   error    Strings must use singlequote                                                   quotes
+  369:57   error    Extra semicolon                                                                semi
+  370:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  370:35   error    Strings must use singlequote                                                   quotes
+  370:55   error    Extra semicolon                                                                semi
+  370:56   error    Block must not be padded by blank lines                                        padded-blocks
+  374:5    error    'newestSort' is never reassigned. Use 'const' instead                          prefer-const
+  374:26   error    Missing space before function parentheses                                      space-before-function-paren
+  375:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  375:9    error    'obj' is never reassigned. Use 'const' instead                                 prefer-const
+  375:26   error    Extra semicolon                                                                semi
+  376:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  376:19   error    Extra semicolon                                                                semi
+  377:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  377:21   error    Extra semicolon                                                                semi
+  378:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  380:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  381:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  382:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  383:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  384:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  385:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  386:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  387:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  388:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  389:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  390:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  391:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  392:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  393:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  394:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  395:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  396:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  397:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  398:1    error    Expected indentation of 8 spaces but found 16                                  indent
+  398:21   error    'temp' is never reassigned. Use 'const' instead                                prefer-const
+  398:49   error    Extra semicolon                                                                semi
+  399:1    error    Expected indentation of 8 spaces but found 16                                  indent
+  399:62   error    Extra semicolon                                                                semi
+  400:1    error    Expected indentation of 8 spaces but found 16                                  indent
+  400:45   error    Extra semicolon                                                                semi
+  401:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  402:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  403:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  404:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  405:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  405:19   error    Extra semicolon                                                                semi
+  406:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  406:19   error    Extra semicolon                                                                semi
+  409:5    error    'searchBarSetup' is never reassigned. Use 'const' instead                      prefer-const
+  409:30   error    Missing space before function parentheses                                      space-before-function-paren
+  410:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  410:9    error    'searchBarElm' is never reassigned. Use 'const' instead                        prefer-const
+  410:48   error    Strings must use singlequote                                                   quotes
+  410:60   error    Extra semicolon                                                                semi
+  412:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  412:35   error    Strings must use singlequote                                                   quotes
+  412:55   error    Missing space before function parentheses                                      space-before-function-paren
+  413:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  413:27   error    Strings must use singlequote                                                   quotes
+  414:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  414:35   error    Extra semicolon                                                                semi
+  415:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  415:31   error    Extra semicolon                                                                semi
+  416:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  417:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  417:7    error    Extra semicolon                                                                semi
+  420:1    error    More than 1 blank line not allowed                                             no-multiple-empty-lines
+  423:5    error    'tagSearchKeyup' is assigned a value but never used                            no-unused-vars
+  423:5    error    'tagSearchKeyup' is never reassigned. Use 'const' instead                      prefer-const
+  423:30   error    Missing space before function parentheses                                      space-before-function-paren
+  423:35   error    Missing space before opening brace                                             space-before-blocks
+  424:27   error    Strings must use singlequote                                                   quotes
+  424:51   error    Extra semicolon                                                                semi
+  425:21   error    Extra semicolon                                                                semi
+  428:5    error    'onSearchBarKeyUp' is never reassigned. Use 'const' instead                    prefer-const
+  428:32   error    Missing space before function parentheses                                      space-before-function-paren
+  429:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  429:9    error    'obj' is never reassigned. Use 'const' instead                                 prefer-const
+  429:26   error    Extra semicolon                                                                semi
+  430:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  430:19   error    Extra semicolon                                                                semi
+  431:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  433:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  433:5    warning  Unexpected var, use let or const instead                                       no-var
+  433:31   error    'j' is defined but never used                                                  no-unused-vars
+  433:46   error    'key1' is defined but never used                                               no-unused-vars
+  433:52   error    'key2' is defined but never used                                               no-unused-vars
+  433:56   error    Extra semicolon                                                                semi
+  435:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  435:37   error    Strings must use singlequote                                                   quotes
+  435:69   error    Extra semicolon                                                                semi
+  436:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  436:30   error    Extra semicolon                                                                semi
+  437:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  437:5    error    'tags' is assigned a value but never used                                      no-unused-vars
+  437:25   error    Extra semicolon                                                                semi
+  439:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  440:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  440:41   error    Strings must use singlequote                                                   quotes
+  440:73   error    Extra semicolon                                                                semi
+  441:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  441:23   error    Extra semicolon                                                                semi
+  442:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  442:24   error    Extra semicolon                                                                semi
+  442:25   error    Trailing spaces not allowed                                                    no-trailing-spaces
+  444:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  444:27   error    Extra semicolon                                                                semi
+  446:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  446:9    warning  Unexpected var, use let or const instead                                       no-var
+  446:30   error    Extra semicolon                                                                semi
+  447:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  448:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  448:25   error    Strings must use singlequote                                                   quotes
+  448:41   error    Extra semicolon                                                                semi
+  449:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  450:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  450:13   warning  Unexpected var, use let or const instead                                       no-var
+  450:65   error    Strings must use singlequote                                                   quotes
+  450:93   error    Strings must use singlequote                                                   quotes
+  450:98   error    Extra semicolon                                                                semi
+  451:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  451:13   warning  Unexpected var, use let or const instead                                       no-var
+  451:42   error    Extra semicolon                                                                semi
+  453:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  453:53   error    Block must not be padded by blank lines                                        padded-blocks
+  454:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  455:1    error    Expected indentation of 8 spaces but found 16                                  indent
+  455:27   error    Extra semicolon                                                                semi
+  456:1    error    Expected indentation of 8 spaces but found 16                                  indent
+  456:47   error    Strings must use singlequote                                                   quotes
+  456:63   error    Strings must use singlequote                                                   quotes
+  456:68   error    Strings must use singlequote                                                   quotes
+  456:71   error    Extra semicolon                                                                semi
+  457:1    error    Expected indentation of 8 spaces but found 16                                  indent
+  457:34   error    Extra semicolon                                                                semi
+  458:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  459:1    error    Expected indentation of 8 spaces but found 16                                  indent
+  459:28   error    Extra semicolon                                                                semi
+  460:1    error    Expected indentation of 8 spaces but found 16                                  indent
+  460:47   error    Strings must use singlequote                                                   quotes
+  460:63   error    Strings must use singlequote                                                   quotes
+  460:68   error    Strings must use singlequote                                                   quotes
+  460:71   error    Extra semicolon                                                                semi
+  461:1    error    Expected indentation of 8 spaces but found 16                                  indent
+  461:34   error    Extra semicolon                                                                semi
+  462:1    error    Expected indentation of 8 spaces but found 16                                  indent
+  462:37   error    Extra semicolon                                                                semi
+  463:1    error    Expected indentation of 8 spaces but found 16                                  indent
+  463:17   error    Expected space(s) after "if"                                                   keyword-spacing
+  463:26   error    Expected '===' and instead saw '=='                                            eqeqeq
+  463:29   error    Strings must use singlequote                                                   quotes
+  463:32   error    Missing space before opening brace                                             space-before-blocks
+  464:1    error    Expected indentation of 10 spaces but found 18                                 indent
+  464:31   error    Extra semicolon                                                                semi
+  465:1    error    Expected indentation of 8 spaces but found 16                                  indent
+  465:18   error    Block must not be padded by blank lines                                        padded-blocks
+  466:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  467:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  467:1    error    More than 1 blank line not allowed                                             no-multiple-empty-lines
+  468:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  469:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  470:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  470:29   error    Extra semicolon                                                                semi
+  471:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  471:37   error    Extra semicolon                                                                semi
+  473:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  473:29   error    Extra semicolon                                                                semi
+  474:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  474:28   error    Extra semicolon                                                                semi
+  476:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  476:51   error    There should be no space before this paren                                     space-in-parens
+  477:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  477:23   error    Extra semicolon                                                                semi
+  477:24   error    Block must not be padded by blank lines                                        padded-blocks
+  478:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  479:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  480:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  480:23   error    Extra semicolon                                                                semi
+  480:24   error    Block must not be padded by blank lines                                        padded-blocks
+  481:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  482:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  482:11   error    Expected space(s) after "else"                                                 keyword-spacing
+  483:1    error    Expected indentation of 6 spaces but found 10                                  indent
+  483:22   error    Extra semicolon                                                                semi
+  483:23   error    Block must not be padded by blank lines                                        padded-blocks
+  484:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  485:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  487:1    error    More than 1 blank line not allowed                                             no-multiple-empty-lines
+  488:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  489:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  489:25   error    Strings must use singlequote                                                   quotes
+  489:38   error    Strings must use singlequote                                                   quotes
+  489:61   error    Extra semicolon                                                                semi
+  490:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  490:37   error    Strings must use singlequote                                                   quotes
+  490:65   error    Strings must use singlequote                                                   quotes
+  490:71   error    Extra semicolon                                                                semi
+  491:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  492:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  492:25   error    Strings must use singlequote                                                   quotes
+  492:38   error    Strings must use singlequote                                                   quotes
+  492:66   error    Extra semicolon                                                                semi
+  493:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  493:37   error    Strings must use singlequote                                                   quotes
+  493:65   error    Strings must use singlequote                                                   quotes
+  493:71   error    Extra semicolon                                                                semi
+  494:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  495:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  496:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  497:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  497:19   error    Extra semicolon                                                                semi
+  498:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  498:19   error    Extra semicolon                                                                semi
+  504:5    error    'getTagid' is never reassigned. Use 'const' instead                            prefer-const
+  504:24   error    Missing space before function parentheses                                      space-before-function-paren
+  505:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  505:9    error    'obj' is never reassigned. Use 'const' instead                                 prefer-const
+  505:26   error    Extra semicolon                                                                semi
+  506:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  506:19   error    Extra semicolon                                                                semi
+  507:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  508:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  508:5    warning  Unexpected var, use let or const instead                                       no-var
+  508:16   error    Extra semicolon                                                                semi
+  509:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  509:25   error    Extra semicolon                                                                semi
+  510:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  511:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  512:1    error    Expected indentation of 6 spaces but found 12                                  indent
+  512:31   error    Extra semicolon                                                                semi
+  513:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  514:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  515:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  515:12   error    Strings must use singlequote                                                   quotes
+  515:18   error    Extra semicolon                                                                semi
+  521:5    error    'tagDetecter' is never reassigned. Use 'const' instead                         prefer-const
+  521:27   error    Missing space before function parentheses                                      space-before-function-paren
+  522:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  522:23   error    Strings must use singlequote                                                   quotes
+  522:50   error    Strings must use singlequote                                                   quotes
+  523:1    error    Expected indentation of 4 spaces but found 8                                   indent
+  523:20   error    Extra semicolon                                                                semi
+  524:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  526:1    error    Expected space or tab after '//' in comment                                    spaced-comment
+  528:1    error    More than 1 blank line not allowed                                             no-multiple-empty-lines
+  529:1    error    Expected space or tab after '//' in comment                                    spaced-comment
+  530:5    error    'tagsPageSetup' is never reassigned. Use 'const' instead                       prefer-const
+  530:29   error    Missing space before function parentheses                                      space-before-function-paren
+  530:31   error    Block must not be padded by blank lines                                        padded-blocks
+  530:31   error    Missing space before opening brace                                             space-before-blocks
+  532:7    error    'tagBtn' is never reassigned. Use 'const' instead                              prefer-const
+  532:40   error    Strings must use singlequote                                                   quotes
+  532:51   error    Extra semicolon                                                                semi
+  533:27   error    Strings must use singlequote                                                   quotes
+  533:48   error    Extra semicolon                                                                semi
+  533:49   error    Block must not be padded by blank lines                                        padded-blocks
+  534:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  537:5    error    'showTagPage' is never reassigned. Use 'const' instead                         prefer-const
+  537:27   error    Missing space before function parentheses                                      space-before-function-paren
+  537:29   error    Missing space before opening brace                                             space-before-blocks
+  538:3    error    Expected space(s) after "if"                                                   keyword-spacing
+  538:30   error    Strings must use singlequote                                                   quotes
+  538:55   error    Expected '===' and instead saw '=='                                            eqeqeq
+  538:58   error    Strings must use singlequote                                                   quotes
+  538:61   error    Missing space before opening brace                                             space-before-blocks
+  539:19   error    Extra semicolon                                                                semi
+  540:18   error    Extra semicolon                                                                semi
+  540:19   error    Trailing spaces not allowed                                                    no-trailing-spaces
+  540:19   error    Block must not be padded by blank lines                                        padded-blocks
+  541:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  544:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  544:5    error    Expected space(s) after "if"                                                   keyword-spacing
+  544:32   error    Strings must use singlequote                                                   quotes
+  544:65   error    Expected '===' and instead saw '=='                                            eqeqeq
+  544:68   error    Strings must use singlequote                                                   quotes
+  544:76   error    Missing space before opening brace                                             space-before-blocks
+  545:19   error    Extra semicolon                                                                semi
+  546:18   error    Extra semicolon                                                                semi
+  546:19   error    Trailing spaces not allowed                                                    no-trailing-spaces
+  546:19   error    Block must not be padded by blank lines                                        padded-blocks
+  547:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  549:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  550:27   error    Strings must use singlequote                                                   quotes
+  550:55   error    Strings must use singlequote                                                   quotes
+  550:61   error    Extra semicolon                                                                semi
+  551:27   error    Strings must use singlequote                                                   quotes
+  551:64   error    Strings must use singlequote                                                   quotes
+  551:70   error    Extra semicolon                                                                semi
+  552:27   error    Strings must use singlequote                                                   quotes
+  552:61   error    Strings must use singlequote                                                   quotes
+  552:67   error    Extra semicolon                                                                semi
+  553:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  553:29   error    Strings must use singlequote                                                   quotes
+  553:61   error    Operator '=' must be spaced                                                    space-infix-ops
+  553:62   error    Strings must use singlequote                                                   quotes
+  553:68   error    Extra semicolon                                                                semi
+  554:27   error    Strings must use singlequote                                                   quotes
+  554:54   error    Strings must use singlequote                                                   quotes
+  554:61   error    Extra semicolon                                                                semi
+  554:62   error    Block must not be padded by blank lines                                        padded-blocks
+  555:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  558:5    error    'displayTags' is never reassigned. Use 'const' instead                         prefer-const
+  558:27   error    Missing space before function parentheses                                      space-before-function-paren
+  558:29   error    Missing space before opening brace                                             space-before-blocks
+  559:7    error    'obj' is never reassigned. Use 'const' instead                                 prefer-const
+  559:24   error    Extra semicolon                                                                semi
+  560:17   error    Extra semicolon                                                                semi
+  561:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  562:7    error    'tags' is never reassigned. Use 'const' instead                                prefer-const
+  562:27   error    Extra semicolon                                                                semi
+  563:7    error    'tagBody' is never reassigned. Use 'const' instead                             prefer-const
+  563:41   error    Strings must use singlequote                                                   quotes
+  563:51   error    Extra semicolon                                                                semi
+  564:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  565:3    error    Expected space(s) after "for"                                                  keyword-spacing
+  565:39   error    Missing space before opening brace                                             space-before-blocks
+  566:26   error    Strings must use singlequote                                                   quotes
+  566:60   error    Operator '+' must be spaced                                                    space-infix-ops
+  566:62   error    Operator '+' must be spaced                                                    space-infix-ops
+  566:63   error    Strings must use singlequote                                                   quotes
+  566:74   error    Extra semicolon                                                                semi
+  568:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  569:3    error    Expected space(s) after "for"                                                  keyword-spacing
+  569:39   error    Missing space before opening brace                                             space-before-blocks
+  570:9    error    'tag' is never reassigned. Use 'const' instead                                 prefer-const
+  570:39   error    Strings must use singlequote                                                   quotes
+  570:49   error    Extra semicolon                                                                semi
+  571:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  572:9    error    'tagID' is never reassigned. Use 'const' instead                               prefer-const
+  572:28   error    Extra semicolon                                                                semi
+  573:9    error    'tagName' is never reassigned. Use 'const' instead                             prefer-const
+  573:31   error    Extra semicolon                                                                semi
+  574:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  575:22   error    Strings must use singlequote                                                   quotes
+  575:73   error    Operator '+' must be spaced                                                    space-infix-ops
+  575:75   error    Operator '+' must be spaced                                                    space-infix-ops
+  575:76   error    Strings must use singlequote                                                   quotes
+  575:89   error    Operator '+' must be spaced                                                    space-infix-ops
+  575:95   error    Operator '+' must be spaced                                                    space-infix-ops
+  575:96   error    Strings must use singlequote                                                   quotes
+  575:101  error    Operator '+' must be spaced                                                    space-infix-ops
+  575:109  error    Operator '+' must be spaced                                                    space-infix-ops
+  575:110  error    Strings must use singlequote                                                   quotes
+  575:127  error    Extra semicolon                                                                semi
+  576:42   error    Extra semicolon                                                                semi
+  577:29   error    Strings must use singlequote                                                   quotes
+  577:71   error    There should be no space before ','                                            comma-spacing
+  577:86   error    Extra semicolon                                                                semi
+  579:17   error    Extra semicolon                                                                semi
+  582:1    error    More than 1 blank line not allowed                                             no-multiple-empty-lines
+  583:5    error    'tagLinkSetup' is never reassigned. Use 'const' instead                        prefer-const
+  583:28   error    Missing space before function parentheses                                      space-before-function-paren
+  583:31   error    Missing space before opening brace                                             space-before-blocks
+  584:15   error    Strings must use singlequote                                                   quotes
+  584:18   error    Extra semicolon                                                                semi
+  585:7    error    'obj' is never reassigned. Use 'const' instead                                 prefer-const
+  585:24   error    Extra semicolon                                                                semi
+  586:17   error    Extra semicolon                                                                semi
+  587:7    error    'tags' is assigned a value but never used                                      no-unused-vars
+  587:7    error    'tags' is never reassigned. Use 'const' instead                                prefer-const
+  587:27   error    Extra semicolon                                                                semi
+  589:27   error    Strings must use singlequote                                                   quotes
+  589:54   error    Strings must use singlequote                                                   quotes
+  589:60   error    Extra semicolon                                                                semi
+  590:27   error    Strings must use singlequote                                                   quotes
+  590:55   error    Strings must use singlequote                                                   quotes
+  590:62   error    Extra semicolon                                                                semi
+  591:3    error    Expected space(s) after "for"                                                  keyword-spacing
+  591:43   error    Missing space before opening brace                                             space-before-blocks
+  592:29   error    Strings must use singlequote                                                   quotes
+  592:57   error    Strings must use singlequote                                                   quotes
+  592:63   error    Extra semicolon                                                                semi
+  593:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  594:5    error    Expected space(s) after "for"                                                  keyword-spacing
+  594:65   error    Missing space before opening brace                                             space-before-blocks
+  595:7    error    Expected space(s) after "if"                                                   keyword-spacing
+  595:25   error    Expected '===' and instead saw '=='                                            eqeqeq
+  595:60   error    Missing space before opening brace                                             space-before-blocks
+  596:33   error    Strings must use singlequote                                                   quotes
+  596:61   error    Strings must use singlequote                                                   quotes
+  596:67   error    Extra semicolon                                                                semi
+  597:14   error    Extra semicolon                                                                semi
+  599:6    error    Block must not be padded by blank lines                                        padded-blocks
+  600:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  602:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  603:17   error    Extra semicolon                                                                semi
+  603:18   error    Block must not be padded by blank lines                                        padded-blocks
+  604:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  607:5    error    'tagSort' is assigned a value but never used                                   no-unused-vars
+  607:5    error    'tagSort' is never reassigned. Use 'const' instead                             prefer-const
+  607:23   error    Missing space before function parentheses                                      space-before-function-paren
+  607:26   error    Missing space before opening brace                                             space-before-blocks
+  608:7    error    'obj' is never reassigned. Use 'const' instead                                 prefer-const
+  608:24   error    Extra semicolon                                                                semi
+  609:17   error    Extra semicolon                                                                semi
+  611:1    error    More than 1 blank line not allowed                                             no-multiple-empty-lines
+  612:23   error    Extra semicolon                                                                semi
+  613:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  614:27   error    Strings must use singlequote                                                   quotes
+  614:55   error    Strings must use singlequote                                                   quotes
+  614:62   error    Extra semicolon                                                                semi
+  615:27   error    Strings must use singlequote                                                   quotes
+  615:54   error    Strings must use singlequote                                                   quotes
+  615:60   error    Extra semicolon                                                                semi
+  616:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  617:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  617:1    error    More than 1 blank line not allowed                                             no-multiple-empty-lines
+  618:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  619:15   error    Strings must use singlequote                                                   quotes
+  619:30   error    Extra semicolon                                                                semi
+  622:5    error    'displaySortedTag' is assigned a value but never used                          no-unused-vars
+  622:5    error    'displaySortedTag' is never reassigned. Use 'const' instead                    prefer-const
+  622:32   error    Missing space before function parentheses                                      space-before-function-paren
+  622:35   error    Missing space before opening brace                                             space-before-blocks
+  623:7    error    'obj' is never reassigned. Use 'const' instead                                 prefer-const
+  623:24   error    Extra semicolon                                                                semi
+  624:17   error    Extra semicolon                                                                semi
+  625:15   error    Strings must use singlequote                                                   quotes
+  625:30   error    Extra semicolon                                                                semi
+  626:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  627:7    error    'tags' is assigned a value but never used                                      no-unused-vars
+  627:7    error    'tags' is never reassigned. Use 'const' instead                                prefer-const
+  627:27   error    Extra semicolon                                                                semi
+  628:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  629:7    error    'key' is never reassigned. Use 'const' instead                                 prefer-const
+  629:37   error    Strings must use singlequote                                                   quotes
+  629:46   error    Operator '+' must be spaced                                                    space-infix-ops
+  629:49   error    Extra semicolon                                                                semi
+  630:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  631:7    error    'tagLinkPage' is never reassigned. Use 'const' instead                         prefer-const
+  631:29   error    Missing space before function parentheses                                      space-before-function-paren
+  631:31   error    Missing space before opening brace                                             space-before-blocks
+  632:17   error    Strings must use singlequote                                                   quotes
+  632:32   error    Extra semicolon                                                                semi
+  637:24   error    Strings must use singlequote                                                   quotes
+  637:31   error    A space is required after ','                                                  comma-spacing
+  637:44   error    Extra semicolon                                                                semi
+  640:5    error    'getTotalTags' is never reassigned. Use 'const' instead                        prefer-const
+  640:28   error    Missing space before function parentheses                                      space-before-function-paren
+  641:1    error    Opening curly brace does not appear on the same line as controlling statement  brace-style
+  642:7    error    'obj' is never reassigned. Use 'const' instead                                 prefer-const
+  642:24   error    Extra semicolon                                                                semi
+  643:17   error    Extra semicolon                                                                semi
+  644:7    error    'tagsTotal' is never reassigned. Use 'const' instead                           prefer-const
+  644:43   error    Strings must use singlequote                                                   quotes
+  644:55   error    Extra semicolon                                                                semi
+  645:48   error    Strings must use singlequote                                                   quotes
+  645:55   error    Extra semicolon                                                                semi
+  648:5    error    'displayNumQsByTag' is never reassigned. Use 'const' instead                   prefer-const
+  648:33   error    Missing space before function parentheses                                      space-before-function-paren
+  648:36   error    Missing space before opening brace                                             space-before-blocks
+  649:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  650:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  651:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  652:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  653:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  654:7    error    'obj' is never reassigned. Use 'const' instead                                 prefer-const
+  654:24   error    Extra semicolon                                                                semi
+  655:17   error    Extra semicolon                                                                semi
+  655:18   error    Trailing spaces not allowed                                                    no-trailing-spaces
+  656:13   error    Strings must use singlequote                                                   quotes
+  656:15   error    Extra semicolon                                                                semi
+  657:16   error    Extra semicolon                                                                semi
+  658:7    error    'tag' is never reassigned. Use 'const' instead                                 prefer-const
+  658:33   error    Extra semicolon                                                                semi
+  659:7    error    'tags' is assigned a value but never used                                      no-unused-vars
+  659:7    error    'tags' is never reassigned. Use 'const' instead                                prefer-const
+  659:27   error    Extra semicolon                                                                semi
+  660:7    error    'questions' is never reassigned. Use 'const' instead                           prefer-const
+  660:37   error    Extra semicolon                                                                semi
+  661:3    error    Expected space(s) after "for"                                                  keyword-spacing
+  661:44   error    Missing space before opening brace                                             space-before-blocks
+  662:5    error    Expected space(s) after "for"                                                  keyword-spacing
+  662:56   error    Missing space before opening brace                                             space-before-blocks
+  663:7    error    Expected space(s) after "if"                                                   keyword-spacing
+  663:41   error    Missing space before opening brace                                             space-before-blocks
+  664:33   error    Strings must use singlequote                                                   quotes
+  664:39   error    Operator '+' must be spaced                                                    space-infix-ops
+  664:59   error    Strings must use singlequote                                                   quotes
+  664:65   error    Extra semicolon                                                                semi
+  665:16   error    Extra semicolon                                                                semi
+  668:8    error    Expected space(s) before "else"                                                keyword-spacing
+  668:8    error    Expected space(s) after "else"                                                 keyword-spacing
+  669:33   error    Strings must use singlequote                                                   quotes
+  669:39   error    Operator '+' must be spaced                                                    space-infix-ops
+  669:59   error    Strings must use singlequote                                                   quotes
+  669:65   error    Extra semicolon                                                                semi
+  673:17   error    Extra semicolon                                                                semi
+  674:17   error    Strings must use singlequote                                                   quotes
+  674:28   error    Extra semicolon                                                                semi
+  675:3    error    Expected space(s) after "if"                                                   keyword-spacing
+  675:16   error    Missing space before opening brace                                             space-before-blocks
+  676:12   error    Strings must use singlequote                                                   quotes
+  676:15   error    Extra semicolon                                                                semi
+  678:13   error    Extra semicolon                                                                semi
+  678:14   error    Block must not be padded by blank lines                                        padded-blocks
+  679:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  682:1    error    More than 1 blank line not allowed                                             no-multiple-empty-lines
+  684:1    error    Expected space or tab after '//' in comment                                    spaced-comment
+  685:5    error    'newQuestionPageSetup' is never reassigned. Use 'const' instead                prefer-const
+  685:36   error    Missing space before function parentheses                                      space-before-function-paren
+  686:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  686:9    error    'qBtn' is never reassigned. Use 'const' instead                                prefer-const
+  686:40   error    Strings must use singlequote                                                   quotes
+  686:60   error    Extra semicolon                                                                semi
+  687:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  687:27   error    Strings must use singlequote                                                   quotes
+  687:56   error    Extra semicolon                                                                semi
+  688:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  689:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  689:9    error    'qBtnTags' is never reassigned. Use 'const' instead                            prefer-const
+  689:44   error    Strings must use singlequote                                                   quotes
+  689:72   error    Extra semicolon                                                                semi
+  690:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  690:31   error    Strings must use singlequote                                                   quotes
+  690:60   error    Extra semicolon                                                                semi
+  691:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  692:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  692:9    error    'qBtnAns' is never reassigned. Use 'const' instead                             prefer-const
+  692:43   error    Strings must use singlequote                                                   quotes
+  692:69   error    Extra semicolon                                                                semi
+  693:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  693:30   error    Strings must use singlequote                                                   quotes
+  693:59   error    Extra semicolon                                                                semi
+  696:5    error    'showNewQuestionPage' is never reassigned. Use 'const' instead                 prefer-const
+  696:35   error    Missing space before function parentheses                                      space-before-function-paren
+  696:38   error    Block must not be padded by blank lines                                        padded-blocks
+  698:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  698:29   error    Strings must use singlequote                                                   quotes
+  698:54   error    Operator '=' must be spaced                                                    space-infix-ops
+  698:55   error    Strings must use singlequote                                                   quotes
+  698:61   error    Extra semicolon                                                                semi
+  699:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  699:29   error    Strings must use singlequote                                                   quotes
+  699:56   error    Strings must use singlequote                                                   quotes
+  699:62   error    Extra semicolon                                                                semi
+  700:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  700:29   error    Strings must use singlequote                                                   quotes
+  700:61   error    Operator '=' must be spaced                                                    space-infix-ops
+  700:62   error    Strings must use singlequote                                                   quotes
+  700:69   error    Extra semicolon                                                                semi
+  701:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  701:29   error    Strings must use singlequote                                                   quotes
+  701:60   error    Operator '=' must be spaced                                                    space-infix-ops
+  701:61   error    Strings must use singlequote                                                   quotes
+  701:67   error    Extra semicolon                                                                semi
+  702:27   error    Strings must use singlequote                                                   quotes
+  702:61   error    Operator '=' must be spaced                                                    space-infix-ops
+  702:62   error    Strings must use singlequote                                                   quotes
+  702:68   error    Extra semicolon                                                                semi
+  705:1    error    More than 1 blank line not allowed                                             no-multiple-empty-lines
+  706:1    error    Expected space or tab after '//' in comment                                    spaced-comment
+  708:1    error    Expected space or tab after '//' in comment                                    spaced-comment
+  709:5    error    'ansBtnSetup' is never reassigned. Use 'const' instead                         prefer-const
+  709:27   error    Missing space before function parentheses                                      space-before-function-paren
+  709:29   error    Missing space before opening brace                                             space-before-blocks
+  710:7    error    'obj' is never reassigned. Use 'const' instead                                 prefer-const
+  710:24   error    Extra semicolon                                                                semi
+  711:17   error    Extra semicolon                                                                semi
+  713:3    error    Expected space(s) after "for"                                                  keyword-spacing
+  713:43   error    Missing space before opening brace                                             space-before-blocks
+  714:1    error    Expected indentation of 4 spaces but found 0                                   indent
+  714:25   error    Strings must use singlequote                                                   quotes
+  714:32   error    Operator '+' must be spaced                                                    space-infix-ops
+  714:53   error    Strings must use singlequote                                                   quotes
+  714:60   error    A space is required after ','                                                  comma-spacing
+  714:77   error    Extra semicolon                                                                semi
+  715:4    error    Block must not be padded by blank lines                                        padded-blocks
+  716:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  718:5    error    'answerPageSetup' is never reassigned. Use 'const' instead                     prefer-const
+  718:31   error    Missing space before function parentheses                                      space-before-function-paren
+  718:34   error    Missing space before opening brace                                             space-before-blocks
+  719:15   error    Strings must use singlequote                                                   quotes
+  719:25   error    Extra semicolon                                                                semi
+  720:30   error    Extra semicolon                                                                semi
+  721:7    error    'index' is never reassigned. Use 'const' instead                               prefer-const
+  722:7    error    'ansLink' is assigned a value but never used                                   no-unused-vars
+  722:7    error    'ansLink' is never reassigned. Use 'const' instead                             prefer-const
+  722:53   error    Extra semicolon                                                                semi
+  724:27   error    Strings must use singlequote                                                   quotes
+  724:52   error    Operator '=' must be spaced                                                    space-infix-ops
+  724:53   error    Strings must use singlequote                                                   quotes
+  724:59   error    Extra semicolon                                                                semi
+  725:27   error    Strings must use singlequote                                                   quotes
+  725:51   error    Operator '=' must be spaced                                                    space-infix-ops
+  725:52   error    Strings must use singlequote                                                   quotes
+  725:58   error    Extra semicolon                                                                semi
+  726:27   error    Strings must use singlequote                                                   quotes
+  726:59   error    Operator '=' must be spaced                                                    space-infix-ops
+  726:60   error    Strings must use singlequote                                                   quotes
+  726:66   error    Extra semicolon                                                                semi
+  727:27   error    Strings must use singlequote                                                   quotes
+  727:58   error    Operator '=' must be spaced                                                    space-infix-ops
+  727:59   error    Strings must use singlequote                                                   quotes
+  727:66   error    Extra semicolon                                                                semi
+  728:27   error    Strings must use singlequote                                                   quotes
+  728:61   error    Operator '=' must be spaced                                                    space-infix-ops
+  728:62   error    Strings must use singlequote                                                   quotes
+  728:68   error    Extra semicolon                                                                semi
+  730:21   error    Extra semicolon                                                                semi
+  731:20   error    Extra semicolon                                                                semi
+  734:5    error    'displayInfo' is never reassigned. Use 'const' instead                         prefer-const
+  734:27   error    Missing space before function parentheses                                      space-before-function-paren
+  734:30   error    Missing space before opening brace                                             space-before-blocks
+  735:7    error    'obj' is never reassigned. Use 'const' instead                                 prefer-const
+  735:24   error    Extra semicolon                                                                semi
+  736:17   error    Extra semicolon                                                                semi
+  737:7    error    'Qs' is never reassigned. Use 'const' instead                                  prefer-const
+  737:30   error    Extra semicolon                                                                semi
+  739:7    error    'upper3' is never reassigned. Use 'const' instead                              prefer-const
+  739:40   error    Strings must use singlequote                                                   quotes
+  739:49   error    Extra semicolon                                                                semi
+  740:70   error    Strings must use singlequote                                                   quotes
+  740:89   error    Extra semicolon                                                                semi
+  741:23   error    Strings must use singlequote                                                   quotes
+  741:50   error    Strings must use singlequote                                                   quotes
+  741:62   error    Extra semicolon                                                                semi
+  743:1    error    Expected indentation of 2 spaces but found 4                                   indent
+  743:29   error    Strings must use singlequote                                                   quotes
+  743:69   error    Operator '=' must be spaced                                                    space-infix-ops
+  743:70   error    Strings must use singlequote                                                   quotes
+  743:77   error    Extra semicolon                                                                semi
+  746:7    error    'lower3' is never reassigned. Use 'const' instead                              prefer-const
+  746:40   error    Strings must use singlequote                                                   quotes
+  746:49   error    Extra semicolon                                                                semi
+  747:23   error    Strings must use singlequote                                                   quotes
+  747:46   error    Operator '+' must be spaced                                                    space-infix-ops
+  747:62   error    Strings must use singlequote                                                   quotes
+  747:76   error    Extra semicolon                                                                semi
+  748:23   error    Strings must use singlequote                                                   quotes
+  748:45   error    Operator '+' must be spaced                                                    space-infix-ops
+  748:60   error    Strings must use singlequote                                                   quotes
+  748:69   error    Extra semicolon                                                                semi
+  749:91   error    Strings must use singlequote                                                   quotes
+  749:143  error    Strings must use singlequote                                                   quotes
+  749:151  error    Extra semicolon                                                                semi
+  749:152  error    Block must not be padded by blank lines                                        padded-blocks
+  750:1    error    Trailing spaces not allowed                                                    no-trailing-spaces
+  753:5    error    'displayAns' is never reassigned. Use 'const' instead                          prefer-const
+  753:26   error    Missing space before function parentheses                                      space-before-function-paren
+  753:29   error    Missing space before opening brace                                             space-before-blocks
+  754:7    error    'obj' is never reassigned. Use 'const' instead                                 prefer-const
+  754:24   error    Extra semicolon                                                                semi
+  755:17   error    Extra semicolon                                                                semi
+  756:7    error    'Qs' is never reassigned. Use 'const' instead                                  prefer-const
+  756:30   error    Extra semicolon                                                                semi
+  757:7    error    'As' is never reassigned. Use 'const' instead                                  prefer-const
+  757:28   error    Extra semicolon                                                                semi
+  759:7    error    'answers' is never reassigned. Use 'const' instead                             prefer-const
+  759:41   error    Strings must use singlequote                                                   quotes
+  759:51   error    Extra semicolon                                                                semi
+  760:3    error    Expected space(s) after "for"                                                  keyword-spacing
+  760:47   error    Missing space before opening brace                                             space-before-blocks
+  761:9    error    'ansId' is never reassigned. Use 'const' instead                               prefer-const
+  761:32   error    Extra semicolon                                                                semi
+  762:5    error    Expected space(s) after "for"                                                  keyword-spacing
+  762:39   error    Missing space before opening brace                                             space-before-blocks
+  763:7    error    Expected space(s) after "if"                                                   keyword-spacing
+  763:16   error    Expected '===' and instead saw '=='                                            eqeqeq
+  763:29   error    Missing space before opening brace                                             space-before-blocks
+  764:30   error    Strings must use singlequote                                                   quotes
+  764:55   error    Operator '+' must be spaced                                                    space-infix-ops
+  764:69   error    Strings must use singlequote                                                   quotes
+  764:77   error    Extra semicolon                                                                semi
+  765:84   error    Operator '+' must be spaced                                                    space-infix-ops
+  765:99   error    Strings must use singlequote                                                   quotes
+  765:118  error    Operator '+' must be spaced                                                    space-infix-ops
+  765:151  error    Operator '+' must be spaced                                                    space-infix-ops
+  765:152  error    Strings must use singlequote                                                   quotes
+  765:160  error    Extra semicolon                                                                semi
+  769:1    error    Expected indentation of 2 spaces but found 0                                   indent
+  769:30   error    Block must not be padded by blank lines                                        padded-blocks
+  773:5    error    'newAnswerPageSetup' is never reassigned. Use 'const' instead                  prefer-const
+  773:34   error    Missing space before function parentheses                                      space-before-function-paren
+  773:36   error    Missing space before opening brace                                             space-before-blocks
+  774:7    error    'answerQuestionBtn' is never reassigned. Use 'const' instead                   prefer-const
+  774:51   error    Strings must use singlequote                                                   quotes
+  774:71   error    Extra semicolon                                                                semi
+  775:38   error    Strings must use singlequote                                                   quotes
+  775:61   error    Extra semicolon                                                                semi
+  778:5    error    'newAnswerPage' is never reassigned. Use 'const' instead                       prefer-const
+  778:29   error    Missing space before function parentheses                                      space-before-function-paren
+  778:31   error    Missing space before opening brace                                             space-before-blocks
+  779:27   error    Strings must use singlequote                                                   quotes
+  779:52   error    Operator '=' must be spaced                                                    space-infix-ops
+  779:53   error    Strings must use singlequote                                                   quotes
+  779:59   error    Extra semicolon                                                                semi
+  780:27   error    Strings must use singlequote                                                   quotes
+  780:51   error    Operator '=' must be spaced                                                    space-infix-ops
+  780:52   error    Strings must use singlequote                                                   quotes
+  780:58   error    Extra semicolon                                                                semi
+  781:27   error    Strings must use singlequote                                                   quotes
+  781:59   error    Operator '=' must be spaced                                                    space-infix-ops
+  781:60   error    Strings must use singlequote                                                   quotes
+  781:66   error    Extra semicolon                                                                semi
+  782:27   error    Strings must use singlequote                                                   quotes
+  782:58   error    Operator '=' must be spaced                                                    space-infix-ops
+  782:59   error    Strings must use singlequote                                                   quotes
+  782:65   error    Extra semicolon                                                                semi
+  783:27   error    Strings must use singlequote                                                   quotes
+  783:61   error    Operator '=' must be spaced                                                    space-infix-ops
+  783:62   error    Strings must use singlequote                                                   quotes
+  783:69   error    Extra semicolon                                                                semi
+  785:1    error    Too many blank lines at the end of file. Max of 0 allowed                      no-multiple-empty-lines
+
+model.js
+
+2:1    error    Expected indentation of 2 spaces but found 4             indent
+    2:16   error    Missing space before function parentheses                space-before-function-paren
+    3:1    error    Expected indentation of 4 spaces but found 8             indent
+    4:1    error    Expected indentation of 6 spaces but found 12            indent
+    5:1    error    Expected indentation of 8 spaces but found 16            indent
+    6:1    error    Expected indentation of 10 spaces but found 20           indent
+    7:1    error    Expected indentation of 10 spaces but found 20           indent
+    8:1    error    Expected indentation of 10 spaces but found 20           indent
+    9:1    error    Expected indentation of 10 spaces but found 20           indent
+   10:1    error    Expected indentation of 10 spaces but found 20           indent
+   11:1    error    Expected indentation of 10 spaces but found 20           indent
+   12:1    error    Expected indentation of 10 spaces but found 20           indent
+   13:1    error    Expected indentation of 10 spaces but found 20           indent
+   13:30   error    Unexpected trailing comma                                comma-dangle
+   14:1    error    Expected indentation of 8 spaces but found 16            indent
+   15:1    error    Expected indentation of 8 spaces but found 16            indent
+   16:1    error    Expected indentation of 10 spaces but found 20           indent
+   17:1    error    Expected indentation of 10 spaces but found 20           indent
+   18:1    error    Expected indentation of 10 spaces but found 20           indent
+   19:1    error    Expected indentation of 10 spaces but found 20           indent
+   20:1    error    Expected indentation of 10 spaces but found 20           indent
+   21:1    error    Expected indentation of 10 spaces but found 20           indent
+   22:1    error    Expected indentation of 10 spaces but found 20           indent
+   23:1    error    Expected indentation of 10 spaces but found 20           indent
+   23:31   error    Unexpected trailing comma                                comma-dangle
+   24:1    error    Expected indentation of 8 spaces but found 16            indent
+   25:1    error    Expected indentation of 6 spaces but found 12            indent
+   26:1    error    Expected indentation of 6 spaces but found 12            indent
+   27:1    error    Expected indentation of 8 spaces but found 16            indent
+   28:1    error    Expected indentation of 10 spaces but found 20           indent
+   29:1    error    Expected indentation of 10 spaces but found 20           indent
+   29:34   error    Unexpected trailing comma                                comma-dangle
+   30:1    error    Expected indentation of 8 spaces but found 16            indent
+   31:1    error    Expected indentation of 8 spaces but found 16            indent
+   32:1    error    Expected indentation of 10 spaces but found 20           indent
+   33:1    error    Expected indentation of 10 spaces but found 20           indent
+   33:39   error    Unexpected trailing comma                                comma-dangle
+   34:1    error    Expected indentation of 8 spaces but found 16            indent
+   35:1    error    Expected indentation of 8 spaces but found 16            indent
+   36:1    error    Expected indentation of 10 spaces but found 20           indent
+   37:1    error    Expected indentation of 10 spaces but found 20           indent
+   37:43   error    Unexpected trailing comma                                comma-dangle
+   38:1    error    Expected indentation of 8 spaces but found 16            indent
+   39:1    error    Expected indentation of 8 spaces but found 16            indent
+   40:1    error    Expected indentation of 10 spaces but found 20           indent
+   41:1    error    Expected indentation of 10 spaces but found 20           indent
+   41:47   error    Unexpected trailing comma                                comma-dangle
+   42:1    error    Expected indentation of 8 spaces but found 16            indent
+   43:1    error    Expected indentation of 6 spaces but found 12            indent
+   45:1    error    Expected indentation of 6 spaces but found 12            indent
+   46:1    error    Expected indentation of 8 spaces but found 16            indent
+   47:1    error    Expected indentation of 10 spaces but found 20           indent
+   48:1    error    Expected indentation of 10 spaces but found 20           indent
+   49:1    error    Expected indentation of 10 spaces but found 20           indent
+   50:1    error    Expected indentation of 10 spaces but found 20           indent
+   50:65   error    Unexpected trailing comma                                comma-dangle
+   51:1    error    Expected indentation of 8 spaces but found 16            indent
+   52:1    error    Expected indentation of 8 spaces but found 16            indent
+   53:1    error    Expected indentation of 10 spaces but found 20           indent
+   54:1    error    Expected indentation of 10 spaces but found 20           indent
+   55:1    error    Expected indentation of 10 spaces but found 20           indent
+   56:1    error    Expected indentation of 10 spaces but found 20           indent
+   56:67   error    Unexpected trailing comma                                comma-dangle
+   57:1    error    Expected indentation of 8 spaces but found 16            indent
+   58:1    error    Expected indentation of 8 spaces but found 16            indent
+   59:1    error    Expected indentation of 10 spaces but found 20           indent
+   60:1    error    Expected indentation of 10 spaces but found 20           indent
+   61:1    error    Expected indentation of 10 spaces but found 20           indent
+   62:1    error    Expected indentation of 10 spaces but found 20           indent
+   62:65   error    Unexpected trailing comma                                comma-dangle
+   63:1    error    Expected indentation of 8 spaces but found 16            indent
+   64:1    error    Expected indentation of 8 spaces but found 16            indent
+   65:1    error    Expected indentation of 10 spaces but found 20           indent
+   66:1    error    Expected indentation of 10 spaces but found 20           indent
+   67:1    error    Expected indentation of 10 spaces but found 20           indent
+   68:1    error    Expected indentation of 10 spaces but found 20           indent
+   68:68   error    Unexpected trailing comma                                comma-dangle
+   69:1    error    Expected indentation of 8 spaces but found 16            indent
+   70:1    error    Expected indentation of 8 spaces but found 16            indent
+   71:1    error    Expected indentation of 10 spaces but found 20           indent
+   72:1    error    Expected indentation of 10 spaces but found 20           indent
+   73:1    error    Expected indentation of 10 spaces but found 20           indent
+   74:1    error    Expected indentation of 10 spaces but found 20           indent
+   74:68   error    Unexpected trailing comma                                comma-dangle
+   75:1    error    Expected indentation of 8 spaces but found 16            indent
+   76:1    error    Expected indentation of 6 spaces but found 12            indent
+   77:1    error    Expected indentation of 4 spaces but found 8             indent
+   77:10   error    Extra semicolon                                          semi
+   78:1    error    Expected indentation of 2 spaces but found 4             indent
+   79:1    error    Expected indentation of 2 spaces but found 4             indent
+   81:1    error    Expected indentation of 2 spaces but found 4             indent
+   82:1    error    Expected indentation of 2 spaces but found 4             indent
+   83:1    error    Expected indentation of 2 spaces but found 4             indent
+   85:1    error    Expected indentation of 2 spaces but found 4             indent
+   86:1    error    Expected indentation of 2 spaces but found 4             indent
+   87:1    error    Expected indentation of 2 spaces but found 4             indent
+   87:52   error    Trailing spaces not allowed                              no-trailing-spaces
+   88:1    error    Expected indentation of 2 spaces but found 4             indent
+   90:1    error    Expected indentation of 2 spaces but found 4             indent
+   92:1    error    Expected indentation of 2 spaces but found 4             indent
+   92:14   error    Missing space before function parentheses                space-before-function-paren
+   93:1    error    Expected indentation of 4 spaces but found 8             indent
+   93:42   error    Extra semicolon                                          semi
+   94:1    error    Expected indentation of 2 spaces but found 4             indent
+   95:1    error    Expected indentation of 2 spaces but found 4             indent
+   95:5    error    Expected blank line between class members                lines-between-class-members
+   95:25   error    Missing space before function parentheses                space-before-function-paren
+   96:1    error    Expected indentation of 4 spaces but found 8             indent
+   96:52   error    Extra semicolon                                          semi
+   97:1    error    Expected indentation of 2 spaces but found 4             indent
+   99:1    error    Expected indentation of 2 spaces but found 4             indent
+   99:27   error    Missing space before function parentheses                space-before-function-paren
+  100:1    error    Expected indentation of 4 spaces but found 8             indent
+  100:44   error    Extra semicolon                                          semi
+  101:1    error    Expected indentation of 2 spaces but found 4             indent
+  102:1    error    Expected indentation of 2 spaces but found 4             indent
+  102:5    error    Expected blank line between class members                lines-between-class-members
+  102:24   error    Missing space before function parentheses                space-before-function-paren
+  103:1    error    Expected indentation of 4 spaces but found 8             indent
+  103:44   error    Extra semicolon                                          semi
+  104:1    error    Expected indentation of 2 spaces but found 4             indent
+  105:1    error    Expected indentation of 2 spaces but found 4             indent
+  105:5    error    Expected blank line between class members                lines-between-class-members
+  105:25   error    Missing space before function parentheses                space-before-function-paren
+  106:1    error    Expected indentation of 4 spaces but found 8             indent
+  106:46   error    Extra semicolon                                          semi
+  107:1    error    Expected indentation of 2 spaces but found 4             indent
+  108:1    error    Expected indentation of 2 spaces but found 4             indent
+  108:5    error    Expected blank line between class members                lines-between-class-members
+  108:23   error    Missing space before function parentheses                space-before-function-paren
+  109:1    error    Expected indentation of 4 spaces but found 8             indent
+  109:13   error    'tags' is never reassigned. Use 'const' instead          prefer-const
+  109:44   error    Strings must use singlequote                             quotes
+  109:59   error    Extra semicolon                                          semi
+  110:1    error    Expected indentation of 4 spaces but found 8             indent
+  111:1    error    Expected indentation of 4 spaces but found 8             indent
+  112:1    error    Expected indentation of 6 spaces but found 12            indent
+  113:1    error    Expected indentation of 8 spaces but found 16            indent
+  113:54   error    Expected '===' and instead saw '=='                      eqeqeq
+  114:1    error    Expected indentation of 10 spaces but found 20           indent
+  114:39   error    Strings must use singlequote                             quotes
+  114:73   error    Strings must use singlequote                             quotes
+  114:80   error    Extra semicolon                                          semi
+  115:1    error    Expected indentation of 8 spaces but found 16            indent
+  115:18   error    Block must not be padded by blank lines                  padded-blocks
+  117:1    error    Expected indentation of 6 spaces but found 12            indent
+  117:14   error    Block must not be padded by blank lines                  padded-blocks
+  119:1    error    Expected indentation of 4 spaces but found 8             indent
+  120:1    error    Expected indentation of 4 spaces but found 8             indent
+  120:20   error    Extra semicolon                                          semi
+  121:1    error    Expected indentation of 2 spaces but found 4             indent
+  123:1    error    More than 1 blank line not allowed                       no-multiple-empty-lines
+  125:1    error    Expected indentation of 2 spaces but found 4             indent
+  125:27   error    Missing space before function parentheses                space-before-function-paren
+  126:1    error    Expected indentation of 4 spaces but found 8             indent
+  126:9    warning  Unexpected var, use let or const instead                 no-var
+  126:18   error    Extra semicolon                                          semi
+  128:1    error    Expected indentation of 4 spaces but found 8             indent
+  129:1    error    Expected indentation of 6 spaces but found 12            indent
+  129:13   error    'id' is assigned a value but never used                  no-unused-vars
+  130:1    error    Expected indentation of 4 spaces but found 8             indent
+  131:1    error    Expected indentation of 2 spaces but found 4             indent
+  133:1    error    More than 1 blank line not allowed                       no-multiple-empty-lines
+  134:1    error    Expected indentation of 2 spaces but found 4             indent
+  134:27   error    Missing space before function parentheses                space-before-function-paren
+  134:38   error    Block must not be padded by blank lines                  padded-blocks
+  136:1    error    Expected indentation of 4 spaces but found 6             indent
+  136:11   error    'nowTemp' is never reassigned. Use 'const' instead       prefer-const
+  136:31   error    Extra semicolon                                          semi
+  137:1    error    Expected indentation of 4 spaces but found 6             indent
+  137:11   error    'someTimeTemp' is never reassigned. Use 'const' instead  prefer-const
+  137:44   error    Extra semicolon                                          semi
+  138:1    error    Trailing spaces not allowed                              no-trailing-spaces
+  139:1    error    Expected indentation of 4 spaces but found 6             indent
+  139:50   error    Extra semicolon                                          semi
+  140:1    error    Expected indentation of 4 spaces but found 6             indent
+  140:43   error    Extra semicolon                                          semi
+  141:1    error    Expected indentation of 4 spaces but found 6             indent
+  141:63   error    Extra semicolon                                          semi
+  142:1    error    Trailing spaces not allowed                              no-trailing-spaces
+  143:1    error    Expected indentation of 4 spaces but found 6             indent
+  144:1    error    Expected indentation of 6 spaces but found 8             indent
+  144:35   error    Strings must use singlequote                             quotes
+  144:49   error    Extra semicolon                                          semi
+  145:1    error    Expected indentation of 4 spaces but found 6             indent
+  146:1    error    Expected indentation of 6 spaces but found 8             indent
+  146:40   error    Strings must use singlequote                             quotes
+  146:54   error    Extra semicolon                                          semi
+  147:1    error    Expected indentation of 4 spaces but found 6             indent
+  148:1    error    Expected indentation of 6 spaces but found 8             indent
+  148:47   error    Strings must use singlequote                             quotes
+  148:59   error    Extra semicolon                                          semi
+  149:1    error    Expected indentation of 4 spaces but found 6             indent
+  150:1    error    Expected indentation of 6 spaces but found 8             indent
+  150:34   error    Strings must use singlequote                             quotes
+  150:48   error    Strings must use singlequote                             quotes
+  150:65   error    Strings must use singlequote                             quotes
+  150:84   error    Strings must use singlequote                             quotes
+  150:95   error    Extra semicolon                                          semi
+  151:1    error    Expected indentation of 6 spaces but found 8             indent
+  151:76   error    Extra semicolon                                          semi
+  152:1    error    Expected indentation of 6 spaces but found 8             indent
+  153:1    error    Expected indentation of 8 spaces but found 10            indent
+  153:26   error    Strings must use singlequote                             quotes
+  153:35   error    Extra semicolon                                          semi
+  154:1    error    Expected indentation of 6 spaces but found 8             indent
+  155:1    error    Expected indentation of 6 spaces but found 8             indent
+  155:54   error    Strings must use singlequote                             quotes
+  155:74   error    Strings must use singlequote                             quotes
+  155:122  error    Extra semicolon                                          semi
+  156:1    error    Expected indentation of 4 spaces but found 6             indent
+  157:1    error    Expected indentation of 2 spaces but found 4             indent
+  159:1    error    More than 1 blank line not allowed                       no-multiple-empty-lines
+  160:1    error    Expected indentation of 2 spaces but found 4             indent
+  160:23   error    Missing space before function parentheses                space-before-function-paren
+  160:25   error    Missing space before opening brace                       space-before-blocks
+  161:1    error    Expected indentation of 4 spaces but found 6             indent
+  161:23   error    Extra semicolon                                          semi
+  162:1    error    Expected indentation of 2 spaces but found 4             indent
+  163:1    error    Expected indentation of 2 spaces but found 4             indent
+  163:5    error    Expected blank line between class members                lines-between-class-members
+  163:23   error    Missing space before function parentheses                space-before-function-paren
+  163:29   error    Missing space before opening brace                       space-before-blocks
+  164:1    error    Expected indentation of 4 spaces but found 6             indent
+  164:23   error    Extra semicolon                                          semi
+  165:1    error    Expected indentation of 2 spaces but found 4             indent
+  166:1    error    Expected indentation of 2 spaces but found 4             indent
+  166:5    error    Expected blank line between class members                lines-between-class-members
+  166:24   error    Missing space before function parentheses                space-before-function-paren
+  166:26   error    Missing space before opening brace                       space-before-blocks
+  167:1    error    Expected indentation of 4 spaces but found 6             indent
+  167:30   error    Strings must use singlequote                             quotes
+  167:71   error    Extra semicolon                                          semi
+  168:1    error    Expected indentation of 2 spaces but found 4             indent
+  169:1    error    Expected indentation of 2 spaces but found 4             indent
+  169:5    error    Expected blank line between class members                lines-between-class-members
+  169:24   error    Missing space before function parentheses                space-before-function-paren
+  169:26   error    Missing space before opening brace                       space-before-blocks
+  170:1    error    Expected indentation of 4 spaces but found 6             indent
+  170:53   error    Strings must use singlequote                             quotes
+  170:68   error    Extra semicolon                                          semi
+  171:1    error    Expected indentation of 2 spaces but found 4             indent
+  173:1    error    Expected indentation of 2 spaces but found 4             indent
+  174:1    error    Trailing spaces not allowed                              no-trailing-spaces
+  175:1    error    Expected indentation of 2 spaces but found 4             indent
+  176:1    error    Expected indentation of 2 spaces but found 4             indent
+  176:9    error    Block must not be padded by blank lines                  padded-blocks
+  177:1    error    Trailing spaces not allowed                              no-trailing-spaces

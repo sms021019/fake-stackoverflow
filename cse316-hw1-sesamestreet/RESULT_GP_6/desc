@@ -1,0 +1,207 @@
+For better understanding refer: https://eslint.org/docs/latest/rules/
+
+
+Rules:
+
+1:) array-callback-return: Enforce return statements in callbacks of array methods
+
+2:) constructor-super: Constructors of derived classes must call super(). Constructors of non derived classes must not call super(). If this is not observed, the JavaScript engine will raise a runtime error.
+
+3:) for-direction: A for loop with a stop condition that can never be reached, such as one with a counter that moves in the wrong direction, will run infinitely. While there are occasions when an infinite loop is intended, the convention is to construct such loops as while loops. More typically, an infinite for loop is a bug.
+
+4:) getter-return: Enforce return statements in getters
+
+5:) no-async-promise-executor: The new Promise constructor accepts an executor function as an argument, which has resolve and reject parameters that can be used to control the state of the created Promise. For example:
+
+6:) no-await-in-loop: Disallow await inside of loops
+
+7:) no-class-assign: Disallow reassigning class members
+
+8:) no-compare-neg-zero: The rule should warn against code that tries to compare against -0, since that will not work as intended. That is, code like x === -0 will pass for both +0 and -0. The author probably intended Object.is(x, -0).
+
+9:) no-cond-assign: Disallow assignment operators in conditional expressions
+
+10:) no-const-assign: Disallow reassigning const variables
+
+11:) no-constant-binary-expression: This rule identifies == and === comparisons which, based on the semantics of the JavaScript language, will always evaluate to true or false. It also identifies ||, && and ?? logical expressions which will either always or never short-circuit.
+
+12:) no-constant-condition: A constant expression (for example, a literal) as a test condition might be a typo or development trigger for a specific behavior. For example, the following code looks as if it is not ready for production.
+
+
+13:) no-constructor-return: In JavaScript, returning a value in the constructor of a class may be a mistake. Forbidding this pattern prevents mistakes resulting from unfamiliarity with the language or a copy-paste error.
+
+14:) no-control-regex: Control characters are special, invisible characters in the ASCII range 0-31. These characters are rarely used in JavaScript strings so a regular expression containing elements that explicitly match these characters is most likely a mistake.
+
+15:) no-debugger: Disallow the use of debugger
+
+16:) no-dupe-args: Disallow duplicate arguments in function definitions
+
+17:) no-dupe-class-members: Disallow duplicate class members
+
+18:) no-dupe-else-if: Disallow duplicate conditions in if-else-if chains
+
+19:) no-dupe-keys: Disallow duplicate keys in object literals
+
+20:) no-duplicate-case: If a switch statement has duplicate test expressions in case clauses, it is likely that a programmer copied a case clause but forgot to change the test expression.
+
+21:) no-duplicate-imports: Disallow duplicate module imports
+
+22:) no-empty-character-class: Disallow empty character classes in regular expressions
+
+23:) no-empty-pattern: Disallow empty destructuring patterns
+
+24:) no-ex-assign: Disallow reassigning exceptions in catch clauses
+
+25:) no-fallthrough: Disallow fallthrough of case statements
+
+26:) no-func-assign: Disallow reassigning function declarations
+
+27:) no-import-assign: Disallow assigning to imported bindings
+
+28:) no-inner-declarations: Disallow variable or function declarations in nested blocks
+
+29:) no-invalid-regexp: Disallow invalid regular expression strings in RegExp constructors
+
+30:) no-irregular-whitespace: Disallow irregular whitespace
+
+31:) no-loss-of-precision: Disallow literal numbers that lose precision
+
+32:) no-misleading-character-class: Disallow characters which are made with multiple code points in character class syntax
+
+33:) no-new-native-nonconstructor: Disallow new operators with global non-constructor functions
+
+34:) no-new-symbol: Disallow new operators with the Symbol object
+
+35:) no-obj-calls: Disallow calling global object properties as functions
+
+36:) no-promise-executor-return: Disallow returning values from Promise executor functions
+
+37:) no-prototype-builtins: Disallow calling some Object.prototype methods directly on objects
+
+38:) array-bracket-newline: Enforce linebreaks after opening and before closing array brackets
+
+39:) array-bracket-spacing: Enforce consistent spacing inside array brackets
+
+40:) array-element-newline: Enforce line breaks after each array element
+
+41:) arrow-parens: Require parentheses around arrow function arguments
+
+42:) arrow-spacing: Enforce consistent spacing before and after the arrow in arrow functions
+
+43:) block-spacing: Disallow or enforce spaces inside of blocks after opening block and before closing block
+
+44:) brace-style: Enforce consistent brace style for blocks
+
+45:) comma-dangle: Require or disallow trailing commas
+
+46:) comma-spacing: Enforce consistent spacing before and after commas
+
+47:) comma-style: Enforce consistent comma style
+
+48:) computed-property-spacing: Enforce consistent spacing inside computed property brackets
+
+49:) dot-location: Enforce consistent newlines before and after dots
+
+50:) eol-last: Require or disallow newline at the end of files
+
+51:) func-call-spacing: Require or disallow spacing between function identifiers and their invocations
+
+52:) function-call-argument-newline: Enforce line breaks between arguments of a function call
+
+53:) function-paren-newline: Enforce consistent line breaks inside function parentheses
+
+54:) generator-star-spacing: Enforce consistent spacing around * operators in generator functions
+
+55:) implicit-arrow-linebreak: Enforce the location of arrow function bodies
+
+56:) indent: Enforce consistent indentation
+
+57:) jsx-quotes: Enforce the consistent use of either double or single quotes in JSX attributes
+
+58:) key-spacing: Enforce consistent spacing between keys and values in object literal properties
+
+59:) keyword-spacing: Enforce consistent spacing before and after keywords
+
+60:) line-comment-position: Enforce position of line comments
+
+61:) linebreak-style: Enforce consistent linebreak style
+
+62:) lines-around-comment: Require empty lines around comments
+
+63:) lines-between-class-members: Require or disallow an empty line between class members
+
+64:) max-len: Enforce a maximum line length
+
+65:) max-statements-per-line: Enforce a maximum number of statements allowed per line
+
+66:) multiline-ternary: Enforce newlines between operands of ternary expressions
+
+67:) new-parens: Enforce or disallow parentheses when invoking a constructor with no arguments
+
+68:) newline-per-chained-call: Require a newline after each call in a method chain
+
+69:) no-extra-parens: Disallow unnecessary parentheses
+
+70:) newline-per-chained-call: Require a newline after each call in a method chain
+
+71:) no-extra-parens: Disallow unnecessary parentheses
+
+72:) no-mixed-spaces-and-tabs: Disallow mixed spaces and tabs for indentation
+
+73:) no-multi-spaces: Disallow multiple spaces
+
+74:) no-multiple-empty-lines: Disallow multiple empty lines
+
+75:) no-tabs: Disallow all tabs
+
+76:) no-trailing-spaces: Disallow trailing whitespace at the end of lines
+
+77:) no-whitespace-before-property: Disallow whitespace before properties
+
+78:) nonblock-statement-body-position: Enforce the location of single-line statements
+
+79:) object-curly-newline: Enforce consistent line breaks after opening and before closing braces
+
+80:) object-curly-spacing: Enforce consistent spacing inside braces
+
+81:) object-property-newline: Enforce placing object properties on separate lines
+
+82:) operator-linebreak: Enforce consistent linebreak style for operators
+
+83:)  padded-blocks: Require or disallow padding within blocks
+
+84:) padding-line-between-statements: Require or disallow padding lines between statements
+
+85:) quotes: Enforce the consistent use of either backticks, double, or single quotes
+
+86:) rest-spread-spacing: Enforce spacing between rest and spread operators and their expressions
+
+87:) semi: Require or disallow semicolons instead of ASI
+
+88:) semi-spacing: Enforce consistent spacing before and after semicolons
+
+89:) semi-style: Enforce location of semicolons
+
+90:) space-before-blocks: Enforce consistent spacing before blocks
+
+91:) space-before-function-paren: Enforce consistent spacing before function definition opening parenthesis
+
+92:) space-in-parens: Enforce consistent spacing inside parentheses
+
+93:) space-infix-ops: Require spacing around infix operators
+
+94:) space-unary-ops: Enforce consistent spacing before or after unary operators
+
+95:) switch-colon-spacing: Enforce spacing around colons of switch statements
+
+96:) template-curly-spacing: Require or disallow spacing around embedded expressions of template strings
+
+97:) template-tag-spacing: Require or disallow spacing between template tags and their literals
+
+98:) unicode-bom: Require or disallow Unicode byte order mark (BOM)
+
+99:) wrap-iife: Require parentheses around immediate function invocations
+
+100:) wrap-regex: Require parenthesis around regex literals
+
+101:) yield-star-spacing: Require or disallow spacing around the * in yield* expressions
