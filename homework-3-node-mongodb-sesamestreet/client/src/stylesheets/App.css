@@ -1,0 +1,464 @@
+/* Add your CSS here */
+*{
+    /* font-family: 'Noto Sans KR', sans-serif; */
+    list-style: none;
+    text-decoration: none;
+    border-collapse: collapse;
+    margin:0px;
+    padding: 0px;
+    color: #000;
+}
+
+#main{
+  width: 200px;
+  height: 100%;
+}
+
+.banner{
+    display: flex;
+    flex: 0 0 86px;
+    background-color: #c2c1c1;
+    width: 100%;
+    margin: auto;
+    border-style: solid;
+    white-space: nowrap;
+    
+}
+.searchArea{
+    width: 200px;
+    height: 40px;
+    background: #fff;
+    margin-top: 24px;
+    margin-right: 100px;
+    position: relative;
+    z-index: 2;
+}
+.searchArea > form > input{
+    border: none;
+    width: 200px;
+    height: 40px;
+    color: #000;
+    padding-left: 10px;
+    position: relative;
+    z-index: 2;
+}
+.title{
+    width:100%;
+    margin-left: 35%;
+    margin-right: 100px;
+    margin-top: 24px;
+    text-align: center;
+    
+}
+.title > h1 {
+    width: 100%;
+}
+
+.sidebar {
+    background-color: #ffddff;
+    flex: 0 0 200px;
+    height: 100%;
+
+    border-right-style: dotted;
+}
+.sidebar a:link, a:visited{
+    background-color: red;
+    margin-top: 20px;
+    padding: 6px 10px 6px 10px;
+    text-decoration: none;
+    font-size: 25px;
+    color: dodgerblue;
+    display: block;
+}
+
+/* Change the color of links on hover */
+.sidebar a:hover, a:active{
+    color: #f1f1f1;
+}
+
+
+.button{
+    color: white;
+    /* padding: 0px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block; */
+    font-size: 16px;
+    /* margin: 2px 2px; */
+    cursor: pointer;
+    background-color: #008cba;
+
+}
+
+.sideButtonDefault {
+    display: inline-block;
+    padding: 10px 25px;
+    margin: 4px 2px 4px 4px;
+    background-color: #ffffff;
+    border: 0px solid #5A5A5A;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    color: #0d6eab;
+    width: 95%;
+    cursor: pointer;
+}
+
+.sideButtonDefault:hover {
+    background-color: #aaa7a7;
+    outline: 4px solid #cccccc;
+    color: lightblue;
+}
+
+.sideButtonClicked {
+    display: inline-block;
+    padding: 10px 25px;
+    margin: 4px 2px 4px 4px;
+    background-color: #bfbfbf;
+    border: 0px solid #5A5A5A;
+    border-radius: 3px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    color: #0d6eab;
+    width: 95%;
+    cursor: pointer;
+}
+.sideButtonClicked:hover {
+    background-color: #c7c7c7;
+    outline: 4px solid #cccccc;
+    color: lightblue;
+}
+
+#mainPage{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.header {
+    flex: 0 0 200px;
+    display: flex;
+    flex-direction: column;
+    border-style: dotted;
+    /* padding-left: 10px; */
+}
+
+
+#askQuestionButtonTagsPAge {
+    background-color: #008cba;
+    width: 130px;
+    height: 40px;
+    margin-top: 40px;
+    margin-left: 0px;
+    border-style: solid;
+    border-color: #000;
+}
+
+#askQuestionButton {
+    /* background-color: #008cba;
+    margin-top: 40px;
+    margin-left: 590px;
+    border-style: solid; */
+    width: 130px;
+    height: 40px;
+    border-color: #000;
+}
+
+
+.header > h2 {
+    width: 300px;
+    height: 80px;
+    font-size: 30px;
+    text-align: left;
+    padding-top: 40px;
+    white-space: nowrap;
+}
+
+#numofClasses {
+    /* margin-left: -30px;
+    margin-top: 150px;
+    position: absolute;
+    
+    left: 300px; */
+    font-size: 20px;
+}
+#sortBtns{
+    display: flex;
+
+}
+#sortBtns > li {
+    flex: 1, 1, 30px;
+}
+
+#sortBtns > li > button{
+    background-color: white;
+    padding: 5px;
+    border-style: none;
+    cursor: pointer;
+    border-left: #000 1px solid ;
+}
+.questions{
+/*     margin-left: 200px; */
+    width: 100% - 200px;
+    height: 100%;
+/*     background-color: aqua; */
+
+
+}
+.card{
+    background-color: pink;
+    border-style: dotted;
+    display: flex;
+}
+
+
+.views{
+  width: 100px;
+  height: 100px;
+  margin-right: 5px;
+}
+.cardTitle{
+  width: 400px;
+  height: 50px;
+  color: skyblue;
+  margin-right: 50px;
+}
+.cardAuthor{
+  width: 100% - 500px;
+  height: 50px;
+  margin-right: 50px;
+}
+
+.cardTags > li{
+  border-radius: 5px;
+  text-align: center;
+  color: #fff;
+  background-color: gray;
+  border: 1px solid black;
+  margin-bottom: 5px;
+  padding: 3px 5px;
+}
+
+/*------------------tags.html.style------------------*/
+/* .tagMain{
+  
+  margin-left: 200px;
+  margin-top: -748px;
+  position: relative;
+}
+
+
+.tagHead{
+  display: flex;
+  flex-grow: 1;
+  width: 100%;
+  height: 174px;
+}
+.tagHead > li{
+  font-size: 30px;
+}
+.tagHead > li > p{
+  width: 400px;
+  text-align: center;
+  padding-top: 50px;
+  font-style: bold;
+}
+#askQuestionButtonOnTagPage{
+  background-color: #008cba;
+  width: 130px;
+  height: 40px;
+  margin-top: 40px;
+  margin-left: 90px;
+  border-style: solid;
+  border-color: #000;
+}
+#totalTags{
+  width: 400px;
+  text-align: center;
+  padding-top: 50px;
+  font-style: bold;
+  
+}
+#tagBody{
+ 
+  display: flex;
+  flex-wrap: wrap;
+  
+} */
+.tags{
+    display: flex;
+
+    height: 100px;
+    border-style: dotted;
+    background-color: pink;
+    align-items: center;
+    justify-content: center; 
+    flex: 1 1 30%;
+    margin: 1%;
+    max-width:30%;
+    border-radius:15%;
+   }
+
+.fakeButton {
+  border: none;
+  background-color: transparent;
+  color: blue;
+  cursor: pointer;
+}
+
+/* -----------tags.html.style end---------------*/
+
+
+
+
+/*newQuestion.html*/
+/*newAnswer.html*/
+.formLabel{
+    font-size: 25px;
+    text-align: left;
+    white-space: nowrap;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+.subtext { 
+    font-size: 15px;
+    text-align: left;
+    margin-left: 20px;
+    font-style: italic;
+    padding-bottom: 10px;
+}
+
+.questionForm { 
+    margin: 20px 100px 0px 50px;
+    display: inline-block;
+    width: 75%;
+    position: relative;
+}
+
+.questionForm > input {
+    box-sizing: border-box;
+    border: 2px solid #b1afaf;
+    border-radius: 4px;
+    width: 80%;
+    padding: 10px 5px;
+    background-color: #f8f8f8;
+}
+
+#submitNewQuestionButton {
+    width: auto;
+    border-radius: 0px;
+    background-color: #008cba;
+    border: 2px solid #000
+}
+
+#submitNewAnswerButton {
+    width: auto;
+    border-radius: 0px;
+    background-color: #008cba;
+    border: 2px solid #000
+}
+
+#newQuestionText {
+    box-sizing: border-box;
+    border: 2px solid #b1afaf;
+    border-radius: 4px;
+    width: 80%;
+    padding: 10px 5px 100px 5px;
+    background-color: #f8f8f8;
+    resize: none;
+}
+
+#newAnswerText {
+    box-sizing: border-box;
+    border: 2px solid #b1afaf;
+    border-radius: 4px;
+    width: 80%;
+    padding: 10px 5px 100px 5px;
+    background-color: #f8f8f8;
+    resize: none;
+}
+
+.redText {
+    color: red;
+    display: inline;
+    font-size: 12px;
+    float: right;
+    margin-right: 18%;
+}
+
+/*Answer Page*/
+
+.mainPage{
+  margin-left: 200px;
+  margin-top: -748px;
+}
+
+
+/* #upper3 {
+    margin-left:5%;
+    display: inline;
+    margin-bottom: 50px;
+    display: flex;
+    flex-wrap: wrap;
+} */
+
+#qTitle {
+    padding-right: 10px;
+}
+
+#lower3 {
+    /* display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px; */
+    border-bottom: dotted;
+}
+
+#qViews {
+    flex: 9%;
+}
+
+#qText {
+    flex: 60%
+}
+
+#qDate {
+    flex: 20%
+}
+
+/* #answers {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+    margin-left: 20px;
+} */
+
+.aText {
+    flex: 70%;
+    border-bottom: dotted;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.aDate {
+    flex: 20%;
+    border-bottom: dotted;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+/* unvisited link */
+a:link {
+    color: rgb(0, 47, 255);
+    text-decoration: underline;
+}
+  
+/* visited link */
+a:visited {
+    color: rgb(85, 255, 212);
+    text-decoration: underline;
+}
