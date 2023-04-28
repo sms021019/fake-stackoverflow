@@ -1,0 +1,17 @@
+
+C:\Users\Jignesh Chowdary\Desktop\cse316-hw2-sesamestreet-main\src\components\fakestackoverflow.js
+  30:9  error  Unexpected newline between function and ( of function call  no-unexpected-multiline
+
+C:\Users\Jignesh Chowdary\Desktop\cse316-hw2-sesamestreet-main\src\components\newAnswer.js
+  76:153  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+  76:162  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+  76:167  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+  76:175  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+C:\Users\Jignesh Chowdary\Desktop\cse316-hw2-sesamestreet-main\src\components\newQuestion.js
+  133:153  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+  133:162  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+  133:167  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+  133:175  error  `'` can be escaped with `&apos;`, `&lsquo;`, `&#39;`, `&rsquo;`  react/no-unescaped-entities
+
+✖ 9 problems (9 errors, 0 warnings)
